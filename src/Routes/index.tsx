@@ -5,11 +5,13 @@ import ProductEdit from "../Pages/Product/Edit";
 
 const CustomRoutes = () => {
   return (
-    <Routes>
-      <Route path="/" element={<MainPage />} />
-      <Route path="/product" element={<Product />} />
-      <Route path="/product/edit" element={<ProductEdit />} />
-    </Routes>
+    <>
+      <Routes>
+        <Route path="/" element={<MainPage />} />
+        <Route path="/product" element={<Product />} />
+        <Route path="/product/edit" element={<ProductEdit />} />
+      </Routes>
+    </>
   )
 }
 
