@@ -44,9 +44,3 @@ We appreciate your time and effort in making the Innoloft Dashboard even better!
 ## License
 
 The Innoloft Dashboard is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
-
-## Contact Information
-
-If you have any questions or suggestions regarding the Innoloft Dashboard, please don't hesitate to reach out to us at [dashboard@innoloft.com](mailto:dashboard@innoloft.com). We'd love to hear from you!
-
-Let's revolutionize the way you manage your product information together! 🌟
