@@ -1,6 +1,5 @@
-import { ComponentProps, useEffect, useState } from "react";
+import { ComponentProps, useEffect } from "react";
 import Header from "../../Components/Header/Header";
-import axios from "axios";
 import { AppDispatch, RootState } from "../../redux";
 import { useDispatch, useSelector } from "react-redux";
 import { getConfiguration } from "../../redux/Config/service";

@@ -14,7 +14,7 @@ function Product() {
       id: '6781'
     }
     dispatch(getProductData(payload))
-  }, [])
+  }, [dispatch])
 
 
   return (

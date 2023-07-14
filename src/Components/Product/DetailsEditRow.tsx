@@ -43,7 +43,7 @@ function DetailsEditRow({ data, onUpdateData }: Props) {
 
   useEffect(()=>{
     setNewData(data);
-  },[])
+  },[data])
 
   return (
     <div className='flex gap-2 flex-wrap'>
